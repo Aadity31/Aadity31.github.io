@@ -23,3 +23,18 @@
 ---
 
 ## 📂 Project Structure  
+
+---
+
+## 📸 Screenshots  
+| 🖥️ Desktop View | 📱 Mobile View |
+|:---------------:|:--------------:|
+| ![Desktop](https://via.placeholder.com/400x200?text=Desktop+Preview) | ![Mobile](https://via.placeholder.com/200x400?text=Mobile+Preview) |
+
+---
+
+## 🔧 How to Run Locally?  
+```sh
+git clone https://github.com/Aadity31/Aadity31.github.io.git
+cd Aadity31.github.io
+open index.html
